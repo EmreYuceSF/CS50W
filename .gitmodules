@@ -1,0 +1,3 @@
+[submodule "Django/CS50W"]
+	path = Django/CS50W
+	url = https://github.com/EmreYuceSF/CS50W.git
